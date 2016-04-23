@@ -1,0 +1,1 @@
+{"fonts":[{"OpenSans-Light":{"family":"opensans","format":[".woff2",".woff"]}},{"Roboto-Bold":{"family":"roboto","format":[".woff2, .woff",".eot"]}}],"systemFonts":{"Nexa-Light":{"format":["woff2"]}},"output":{"fonts":"fonts/","fontface":"css/"}}
